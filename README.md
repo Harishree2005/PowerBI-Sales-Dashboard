@@ -21,6 +21,18 @@ The dashboard provides insights into:
 - Microsoft Excel / CSV Dataset
 
 ---
+## 💡 Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Visualization
+- Interactive Reports
+- Business Intelligence
+- KPI Analysis
+- Trend Analysis
+
+---
+
 
 ## 📂 Dataset
 
@@ -65,7 +77,14 @@ SuperStore Sales Dataset
 - SuperStore_Sales_Dataset.csv
 
 ---
+## 🚀 How to Run
 
+1. Download the repository.
+2. Open `PowerBI-Sales-Dashboard.pbix` in Power BI Desktop.
+3. If prompted, reconnect the dataset.
+4. Explore the dashboard using the filters and visuals.
+
+---
 ## 👩‍💻 Author
 
 Hari Shree
