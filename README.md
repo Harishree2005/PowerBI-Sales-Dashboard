@@ -33,6 +33,11 @@ SuperStore Sales Dataset
 ![Dashboard](dashboard.png)
 
 ---
+## 📈 Future Sales Analysis
+
+![Future Sales](future-sales-analyzer.png)
+
+---
 
 ## 🚀 Features
 
