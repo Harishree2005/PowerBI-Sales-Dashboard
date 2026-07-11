@@ -50,6 +50,14 @@ SuperStore Sales Dataset
 - Ship Mode analysis
 
 ---
+## 📌 Key Insights
+
+- Sales increased significantly during the last quarter.
+- Phones generated the highest sales among all sub-categories.
+- Standard Class contributed the highest number of shipments.
+- Monthly profit showed steady growth throughout the year.
+
+---
 
 ## 📁 Files Included
 
